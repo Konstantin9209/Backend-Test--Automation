@@ -1,0 +1,17 @@
+[
+  {
+    "Date": "2024-03-10T00:08:12.8245053+00:00",
+    "TemperatureC": 45,
+    "Summary": "New Random Test Summary 1"
+  },
+  {
+    "Date": "2024-03-11T00:10:00.0000000+00:00",
+    "TemperatureC": 12,
+    "Summary": "New Random Test Summary 2"
+  },
+  {
+    "Date": "2024-03-12T01:15:30.1234567+00:00",
+    "TemperatureC": 32,
+    "Summary": "New Random Test Summary 3"
+  }
+]

@@ -1,0 +1,21 @@
+C:\Users\petko\source\repos\API Testing Project\API Testing Project\bin\Debug\net6.0\API Testing Project.exe
+C:\Users\petko\source\repos\API Testing Project\API Testing Project\bin\Debug\net6.0\API Testing Project.deps.json
+C:\Users\petko\source\repos\API Testing Project\API Testing Project\bin\Debug\net6.0\API Testing Project.runtimeconfig.json
+C:\Users\petko\source\repos\API Testing Project\API Testing Project\bin\Debug\net6.0\API Testing Project.dll
+C:\Users\petko\source\repos\API Testing Project\API Testing Project\bin\Debug\net6.0\API Testing Project.pdb
+C:\Users\petko\source\repos\API Testing Project\API Testing Project\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\petko\source\repos\API Testing Project\API Testing Project\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\petko\source\repos\API Testing Project\API Testing Project\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\petko\source\repos\API Testing Project\API Testing Project\obj\Debug\net6.0\API Testing Project.csproj.AssemblyReference.cache
+C:\Users\petko\source\repos\API Testing Project\API Testing Project\obj\Debug\net6.0\API Testing Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petko\source\repos\API Testing Project\API Testing Project\obj\Debug\net6.0\API Testing Project.AssemblyInfoInputs.cache
+C:\Users\petko\source\repos\API Testing Project\API Testing Project\obj\Debug\net6.0\API Testing Project.AssemblyInfo.cs
+C:\Users\petko\source\repos\API Testing Project\API Testing Project\obj\Debug\net6.0\API Testing Project.csproj.CoreCompileInputs.cache
+C:\Users\petko\source\repos\API Testing Project\API Testing Project\obj\Debug\net6.0\API Testing Project.csproj.CopyComplete
+C:\Users\petko\source\repos\API Testing Project\API Testing Project\obj\Debug\net6.0\API Testing Project.dll
+C:\Users\petko\source\repos\API Testing Project\API Testing Project\obj\Debug\net6.0\refint\API Testing Project.dll
+C:\Users\petko\source\repos\API Testing Project\API Testing Project\obj\Debug\net6.0\API Testing Project.pdb
+C:\Users\petko\source\repos\API Testing Project\API Testing Project\obj\Debug\net6.0\API Testing Project.genruntimeconfig.cache
+C:\Users\petko\source\repos\API Testing Project\API Testing Project\obj\Debug\net6.0\ref\API Testing Project.dll
+C:\Users\petko\source\repos\API Testing Project\API Testing Project\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\petko\source\repos\API Testing Project\API Testing Project\bin\Debug\net6.0\Newtonsoft.Json.Schema.dll

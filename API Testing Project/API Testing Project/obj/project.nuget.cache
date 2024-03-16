@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "BHL/ZEHGHCQzUK6UnQLCqwaAcyc3jtDTGgu+QgR/gjnCLUOgRLf92JoKXA+i291u1A1qoinz1g1UUzYgVymEtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\petko\\source\\repos\\API Testing Project\\API Testing Project\\API Testing Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\petko\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\petko\\.nuget\\packages\\newtonsoft.json.schema\\3.0.15\\newtonsoft.json.schema.3.0.15.nupkg.sha512",
+    "C:\\Users\\petko\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\petko\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\petko\\.nuget\\packages\\system.text.json\\8.0.2\\system.text.json.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
