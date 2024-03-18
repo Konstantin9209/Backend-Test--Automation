@@ -77,3 +77,4 @@ C:\Users\petko\OneDrive\Documents\GitHub\Backend-Test--Automation\Eventmi-AppSke
 C:\Users\petko\OneDrive\Documents\GitHub\Backend-Test--Automation\Eventmi-AppSkeleton\Eventmi\obj\Debug\net6.0\Eventmi.pdb
 C:\Users\petko\OneDrive\Documents\GitHub\Backend-Test--Automation\Eventmi-AppSkeleton\Eventmi\obj\Debug\net6.0\Eventmi.genruntimeconfig.cache
 C:\Users\petko\OneDrive\Documents\GitHub\Backend-Test--Automation\Eventmi-AppSkeleton\Eventmi\obj\Debug\net6.0\ref\Eventmi.dll
+C:\Users\petko\OneDrive\Documents\GitHub\Backend-Test--Automation\Eventmi-AppSkeleton\Eventmi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
